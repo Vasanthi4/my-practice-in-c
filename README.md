@@ -1,10 +1,10 @@
-# my-practice-in-c
-Just a practice in C
+Int main ()
+{
+  Int a,x,y;
+  a=2;
+  x=3;
+  y=2;
+  printf (%d,pow a,(x+y)+3.5)
+}
 
-Run these programs in linux, use following commands:
-gcc ur_c_file_path -o give_custom_name [Compiler use this custom name for compailed file name]
-./ur_compailed_file_name
 
-Example:
-gcc function-pointer.c -o function-pointer
-./function-pointer
