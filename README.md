@@ -5,6 +5,6 @@ public class codegym
 {
 public static void main (String []args)
 {
-System.out.println ("I will be a Java Programer");
+System.out.println ("All Is Well");
 }
 }
